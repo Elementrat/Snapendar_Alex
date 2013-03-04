@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Alex\Documents\GitHub\Snapendar\.metadata\.plugins\org.eclipse.jdt.core
+4024949277.index
+3733832246.index
+2202171826.index
